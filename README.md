@@ -12,4 +12,3 @@ TopContents.sql: SQL query for finding the top 5 most viewed articles in the las
 
 SubscriptionConversion.sql: SQL query for counting the number of users who subscribed within 30 days of registration.
 
-ovbMedia.sql :Contains Database structure
